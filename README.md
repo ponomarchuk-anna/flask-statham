@@ -1,0 +1,1 @@
+The CV builder site consists of a page with authorization and registration, a form for filling out a CV with the ability to add a photo. The project implements the function of saving a CV as a draft. The completed CV can be converted to pdf and uploaded to the device.
